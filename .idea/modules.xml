@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/I-Am-Poor-Android.iml" filepath="$PROJECT_DIR$/I-Am-Poor-Android.iml" />
+      <module fileurl="file://H:\44ANDROID\UDEMYAndroidNougatAppMasterclass\M03C01IamPoorChallenge\I-Am-Poor-Android.iml" filepath="H:\44ANDROID\UDEMYAndroidNougatAppMasterclass\M03C01IamPoorChallenge\I-Am-Poor-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M03C01IamPoorChallenge.iml" filepath="$PROJECT_DIR$/M03C01IamPoorChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
